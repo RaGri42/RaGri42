@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael
 - 👀 I’m interested in Software Development, creating things and 3D-Printing
-- 🌱 I’m currently learning C++
+- 🌱 Software Devolopment C/C++, Qt
 - 💞️ I’m looking to collaborate on projects, jobs, friendship :-)
 - 📫 How to reach me just write me
 
